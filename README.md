@@ -7,16 +7,16 @@
 
 ## Table Of Contents
 
-*  [Intro](https://github.com/fachryansyah/point-of-sale-backend#Intro)
-*  [Requirments](https://github.com/fachryansyah/point-of-sale-backend#Requirments)
-*  [Configuration](https://github.com/fachryansyah/point-of-sale-backend#Configuration)
-*  [Dependencies](https://github.com/fachryansyah/point-of-sale-backend#Dependencies)
-    *  [clone](https://github.com/fachryansyah/point-of-sale-backend#Clone)
-    *  [environment](https://github.com/fachryansyah/point-of-sale-backend#Environment)
-    *  [serve](https://github.com/fachryansyah/point-of-sale-backend#Serve)
-* [Dependencies](https://github.com/fachryansyah/point-of-sale-backend#Dependencies)
-* [Api Docs](https://github.com/fachryansyah/point-of-sale-backend#Api-Docs)
-* [License](https://github.com/fachryansyah/point-of-sale-backend#License)
+*  [Intro](https://github.com/SeniorDevelo/POS-backend#Intro)
+*  [Requirments](https://github.com/SeniorDevelo/POS-backend#Requirments)
+*  [Configuration](https://github.com/SeniorDevelo/POS-backend#Configuration)
+*  [Dependencies](https://github.com/SeniorDevelo/POS-backend#Dependencies)
+    *  [clone](https://github.com/SeniorDevelo/POS-backend#Clone)
+    *  [environment](https://github.com/SeniorDevelo/POS-backend#Environment)
+    *  [serve](https://github.com/SeniorDevelo/POS-backend#Serve)
+* [Dependencies](https://github.com/SeniorDevelo/POS-backend#Dependencies)
+* [Api Docs](https://github.com/SeniorDevelo/POS-backend#Api-Docs)
+* [License](https://github.com/SeniorDevelo/POS-backend#License)
 ___
 ### Intro
 
@@ -39,8 +39,8 @@ ___
 ##### Clone
 
 ```sh
-$ git clone https://github.com/fachryansyah/point-of-sale-backend
-$ cd point-of-sale-backend
+$ git clone https://github.com/SeniorDevelo/POS-backend
+$ cd POS-backend
 ```
 ---
 
